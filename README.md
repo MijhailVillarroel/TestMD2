@@ -4,7 +4,7 @@
 - Please download the latest [Gradle](https://gradle.org/releases/) distribution
 #### Step2 Unpack the distribution:
 - Create a new directory **"C:\Gradle"** with File explore.
-- Go to the directory where the Gradle distribution was downloaded. Double-click the ZIP archive to expose the content. Drag the content folder **gradle-verion** to your newly created **C:\Gradle folder**.
+- Go to the directory where the Gradle distribution was downloaded. Double-click the ZIP archive to expose the content. Drag the content folder **gradle-version** to your newly created **C:\Gradle folder**.
 #### Step 3. Configure your system environment
 - Configured the environment variable
 -- then click `Properties` -> `Advanced System Settings` -> `Environmental Variables`.
