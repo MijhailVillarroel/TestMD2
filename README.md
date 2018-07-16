@@ -1,4 +1,5 @@
 # Running the tests
+## Using gradle
 ## Prerequisites
 #### Step1 Install Gradle
 - Please download the latest [Gradle](https://gradle.org/releases/) distribution
@@ -19,6 +20,7 @@ Gradle 4.8.1
 ```
 ## Execute Gradle taks.
 1. Run the following gradle task from the directory path where you clone the repository build.gradle file is located **e.g.**:
+**note:** The build.gradle is download when you clone the repository
 ```sh
 $ gradle cucumber -PcucumberOptions=@SalesOfficeDesignCenter
 ```
